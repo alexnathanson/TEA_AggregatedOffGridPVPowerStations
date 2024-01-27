@@ -1,0 +1,84 @@
+borough,network,start time,end time,tier
+bronx,central bronx,16:00,20:00,2
+bronx,fordham,16:00,20:00,2
+bronx,northeast bronx,16:00,20:00,2
+bronx,riverdale,16:00,20:00,2
+bronx,southeast bronx,16:00,20:00,2
+bronx,west bronx,16:00,20:00,2
+brooklyn,bay ridge,14:00,18:00,1
+brooklyn,borough hall,14:00,18:00,1
+brooklyn,brighton beach,14:00,18:00,1
+brooklyn,crown heights,19:00,23:00,1
+brooklyn,flatbush,16:00,20:00,1
+brooklyn,ocean parkway,14:00,18:00,1
+brooklyn,park slope,16:00,20:00,1
+brooklyn,prospect park,16:00,20:00,1
+brooklyn,ridgewood,19:00,23:00,2
+brooklyn,sheepshead bay,16:00,20:00,1
+brooklyn,williamsburg,14:00,18:00,2
+manhattan,battery park city,14:00,18:00,1
+manhattan,beekman,14:00,18:00,1
+manhattan,bowling green,11:00,15:00,1
+manhattan,canal,14:00,18:00,1
+manhattan,central park,16:00,20:00,1
+manhattan,chelsea,14:00,18:00,1
+manhattan,city hall,14:00,18:00,1
+manhattan,columbus circle,14:00,18:00,1
+manhattan,cooper square,14:00,18:00,1
+manhattan,cortlandt,11:00,15:00,1
+manhattan,empire,14:00,18:00,1
+manhattan,fashion,14:00,18:00,1
+manhattan,freedom,11:00,15:00,1
+manhattan,fulton,11:00,15:00,1
+manhattan,grand central,11:00,15:00,1
+manhattan,greeley square,11:00,15:00,1
+manhattan,greenwich,14:00,18:00,1
+manhattan,harlem,14:00,18:00,1
+manhattan,herald square,11:00,15:00,1
+manhattan,hudson,14:00,18:00,1
+manhattan,hunter,11:00,15:00,1
+manhattan,kips bay,11:00,15:00,1
+manhattan,lenox hill,14:00,18:00,1
+manhattan,lincoln square,14:00,18:00,1
+manhattan,madison square,14:00,18:00,1
+manhattan,midtown west,14:00,18:00,1
+manhattan,park place,11:00,15:00,1
+manhattan,pennsylvania,11:00,15:00,1
+manhattan,plaza,11:00,15:00,1
+manhattan,randalls island,19:00,23:00,1
+manhattan,rockefeller center,14:00,18:00,1
+manhattan,roosevelt,14:00,18:00,1
+manhattan,sheridan square,14:00,18:00,1
+manhattan,sutton,11:00,15:00,1
+manhattan,times square,11:00,15:00,1
+manhattan,triboro,14:00,18:00,1
+manhattan,turtle bay,11:00,15:00,1
+manhattan,washington heights,16:00,20:00,1
+manhattan,yorkville,14:00,18:00,1
+queens,borden,14:00,18:00,1
+queens,flushing,16:00,20:00,1
+queens,jackson heights,16:00,20:00,2
+queens,jamaica,16:00,20:00,2
+queens,long island city,14:00,18:00,1
+queens,maspeth,16:00,20:00,1
+queens,rego park,16:00,20:00,1
+queens,richmond hill,19:00,23:00,1
+queens,sunnyside,16:00,20:00,1
+staten island,fox hills,16:00,20:00,1
+staten island,fresh kills,16:00,20:00,1
+staten island,wainwright,16:00,20:00,1
+staten island,willowbrook,16:00,20:00,1
+staten island,woodrow,16:00,20:00,1
+westchester,buchanan,16:00,20:00,1
+westchester,cedar street,16:00,20:00,1
+westchester,elmsford 2,16:00,20:00,1
+westchester,granite hill,16:00,20:00,1
+westchester,grasslands,14:00,18:00,1
+westchester,harrison,14:00,18:00,1
+westchester,millwood west,14:00,18:00,1
+westchester,mohansic,16:00,20:00,1
+westchester,washington street,16:00,20:00,1
+westchester,white plains,14:00,18:00,1
+westchester,pleasantville,14:00,18:00,1
+westchester,rockview,16:00,20:00,1
+westchester,ossining west,16:00,20:00,1
