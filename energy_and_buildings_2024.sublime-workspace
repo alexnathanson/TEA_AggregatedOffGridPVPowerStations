@@ -519,6 +519,36 @@
 	},
 	"buffers":
 	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 29,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "="
+					},
+					"AQAAABQAAAAAAAAAFQAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					4,
+					2,
+					"left_delete",
+					null,
+					"AgAAABQAAAAAAAAAFAAAAAAAAAABAAAAPRMAAAAAAAAAEwAAAAAAAAABAAAAIw",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABUAAAAAAAAAFQAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -568,7 +598,8 @@
 	},
 	"expanded_folders":
 	[
-		"/D/Energy_And_Buildings_Jan2024"
+		"/D/Energy_And_Buildings_Jan2024",
+		"/D/Energy_And_Buildings_Jan2024/TEA_AggregatedOffGridPVPowerStations"
 	],
 	"file_history":
 	[
@@ -738,6 +769,36 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								29
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
