@@ -5,3 +5,5 @@
 venv/*
 
 keys.py
+
+powerStationExperiments/outputs/*
