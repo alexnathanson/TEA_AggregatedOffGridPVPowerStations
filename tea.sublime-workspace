@@ -527,7 +527,6 @@
 			"settings":
 			{
 				"buffer_size": 284235,
-				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
 			"undo_stack":
@@ -540,7 +539,7 @@
 						"characters": " "
 					},
 					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
 				]
 			]
 		}
