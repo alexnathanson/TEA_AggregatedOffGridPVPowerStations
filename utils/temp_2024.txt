@@ -1,0 +1,927 @@
+2/21/2024
+NYISO
+NYISO SCR
+16:00
+17:00
+1:00
+H,I
+Test
+Test
+2/21/2024
+NYISO
+NYISO SCR
+17:00
+18:00
+1:00
+J
+Test
+Test
+4/10/2024
+NYISO
+NYISO SCR
+16:00
+17:00
+1:00
+H,I,J
+Test
+Test
+6/14/2024
+Con Edison
+DLRP*
+17:00
+23:00
+6:00
+Hudson
+Event
+DLRP Immediate
+6/20/2024
+Con Edison
+DLRP*
+15:00
+21:00
+6:00
+Fresh Kills
+Event
+DLRP Immediate
+6/21/2024
+Con Edison
+DLRP*
+10:00
+14:00
+4:00
+Granite Hill
+Event
+DLRP Contingency
+6/21/2024
+Con Edison
+DLRP*
+12:00
+16:00
+4:00
+Harrison
+Event
+DLRP Contingency
+6/21/2024
+Con Edison
+DLRP*
+14:30
+20:30
+6:00
+Madison Square
+Event
+DLRP Immediate
+6/21/2024
+Con Edison
+DLRP*
+18:00
+0:00
+6:00
+Lincoln Square
+Event
+DLRP Immediate
+6/21/2024
+Con Edison
+DLRP*
+18:30
+23:30
+5:00
+Flushing
+Event
+DLRP Immediate
+6/22/2024
+Con Edison
+DLRP*
+8:00
+12:00
+4:00
+White Plains
+Event
+DLRP Contingency
+6/22/2024
+Con Edison
+DLRP*
+16:00
+22:00
+6:00
+Riverdale
+Event
+DLRP Immediate
+6/22/2024
+Con Edison
+DLRP*
+17:30
+23:30
+6:00
+Sheridan Square
+Event
+DLRP Immediate
+6/23/2024
+Con Edison
+DLRP*
+13:00
+19:00
+6:00
+Lenox Hill
+Event
+DLRP Contingency
+6/23/2024
+Con Edison
+DLRP*
+15:00
+19:00
+4:00
+Sheridan Square
+Event
+DLRP Contingency
+6/23/2024
+Con Edison
+DLRP*
+16:00
+22:00
+6:00
+Central Bronx
+Event
+DLRP Immediate
+7/7/2024
+Con Edison
+DLRP*
+19:30
+23:30
+4:00
+Granite Hill
+Event
+DLRP Immediate
+7/8/2024
+Con Edison
+Term DLM
+11:00
+15:00
+4:00
+All
+Event
+Term DLM Planned
+7/8/2024
+Con Edison
+Term DLM
+14:00
+18:00
+4:00
+All
+Event
+Term DLM Planned
+7/8/2024
+Con Edison
+Term DLM
+16:00
+20:00
+4:00
+All
+Event
+Term DLM Planned
+7/8/2024
+Con Edison
+Auto DLM
+16:00
+20:00
+4:00
+All
+Event
+Term DLM Planned
+7/8/2024
+Con Edison
+Term DLM
+19:00
+23:00
+4:00
+All
+Event
+Term DLM Planned
+7/8/2024
+Con Edison
+Auto DLM
+19:00
+23:00
+4:00
+All
+Event
+Term DLM Planned
+7/8/2024
+Con Edison
+DLRP*
+16:00
+22:00
+6:00
+Washington Street
+Event
+DLRP Immediate
+7/8/2024
+Con Edison
+DLRP*
+16:00
+22:00
+6:00
+Granite Hill
+Event
+DLRP Immediate
+7/8/2024
+Con Edison
+DLRP*
+17:30
+23:30
+6:00
+Triboro
+Event
+DLRP Immediate
+7/9/2024
+Con Edison
+Term DLM
+11:00
+15:00
+4:00
+All
+Event
+Term DLM Planned
+7/9/2024
+Con Edison
+Term DLM
+14:00
+18:00
+4:00
+All
+Event
+Term DLM Planned
+7/9/2024
+Con Edison
+Term DLM
+16:00
+20:00
+4:00
+All
+Event
+Term DLM Planned
+7/9/2024
+Con Edison
+Auto DLM
+16:00
+20:00
+4:00
+All
+Event
+Term DLM Planned
+7/9/2024
+Con Edison
+Term DLM
+19:00
+23:00
+4:00
+All
+Event
+Term DLM Planned
+7/9/2024
+Con Edison
+Auto DLM
+19:00
+23:00
+4:00
+All
+Event
+Term DLM Planned
+7/10/2024
+Con Edison
+DLRP*
+21:00
+0:00
+3:00
+Elmsford No. 2
+Event
+DLRP Immediate
+7/15/2024
+Con Edison
+CSRP*
+10:00
+16:00
+6:00
+All
+Event
+CSRP Planned
+7/15/2024
+Con Edison
+CSRP*
+10:00
+16:00
+6:00
+All SC 11
+Event
+CSRP Planned
+7/15/2024
+Con Edison
+CSRP*
+11:00
+15:00
+4:00
+All
+Event
+CSRP Planned
+7/15/2024
+Con Edison
+CSRP*
+13:00
+19:00
+6:00
+All
+Event
+CSRP Planned
+7/15/2024
+Con Edison
+CSRP*
+14:00
+18:00
+4:00
+All
+Event
+CSRP Planned
+7/15/2024
+Con Edison
+CSRP*
+15:00
+21:00
+6:00
+All
+Event
+CSRP Planned
+7/15/2024
+Con Edison
+CSRP*
+15:00
+21:00
+6:00
+All SC 11
+Event
+CSRP Planned
+7/15/2024
+Con Edison
+CSRP*
+16:00
+20:00
+4:00
+All
+Event
+CSRP Planned
+7/15/2024
+Con Edison
+CSRP*
+16:00
+20:00
+4:00
+All SC 11
+Event
+CSRP Planned
+7/15/2024
+Con Edison
+CSRP*
+19:00
+23:00
+4:00
+All
+Event
+CSRP Planned
+7/15/2024
+Con Edison
+Term DLM
+11:00
+15:00
+4:00
+All
+Event
+Term DLM Planned
+7/15/2024
+Con Edison
+Term DLM
+14:00
+18:00
+4:00
+All
+Event
+Term DLM Planned
+7/15/2024
+Con Edison
+Term DLM
+16:00
+20:00
+4:00
+All
+Event
+Term DLM Planned
+7/15/2024
+Con Edison
+Auto DLM
+16:00
+20:00
+4:00
+All
+Event
+Term DLM Planned
+7/15/2024
+Con Edison
+Term DLM
+19:00
+23:00
+4:00
+All
+Event
+Term DLM Planned
+7/15/2024
+Con Edison
+Auto DLM
+19:00
+23:00
+4:00
+All
+Event
+Term DLM Planned
+7/15/2024
+Con Edison
+DLRP*
+16:30
+22:30
+6:00
+Elmsofrd No. 2
+Event
+DLRP Immediate
+7/15/2024
+NYISO
+NYISO SCR
+15:00
+20:00
+5:00
+H,I,J
+Event
+NYISO Event
+7/16/2024
+Con Edison
+CSRP*
+10:00
+16:00
+6:00
+All
+Event
+CSRP Planned
+7/16/2024
+Con Edison
+CSRP*
+10:00
+16:00
+6:00
+All SC 11
+Event
+CSRP Planned
+7/16/2024
+Con Edison
+CSRP*
+11:00
+15:00
+4:00
+All
+Event
+CSRP Planned
+7/16/2024
+Con Edison
+CSRP*
+13:00
+19:00
+6:00
+All
+Event
+CSRP Planned
+7/16/2024
+Con Edison
+CSRP*
+14:00
+18:00
+4:00
+All
+Event
+CSRP Planned
+7/16/2024
+Con Edison
+CSRP*
+15:00
+21:00
+6:00
+All
+Event
+CSRP Planned
+7/16/2024
+Con Edison
+CSRP*
+15:00
+21:00
+6:00
+All SC 11
+Event
+CSRP Planned
+7/16/2024
+Con Edison
+CSRP*
+16:00
+20:00
+4:00
+All
+Event
+CSRP Planned
+7/16/2024
+Con Edison
+CSRP*
+16:00
+20:00
+4:00
+All SC 11
+Event
+CSRP Planned
+7/16/2024
+Con Edison
+CSRP*
+19:00
+23:00
+4:00
+All
+Event
+CSRP Planned
+7/16/2024
+Con Edison
+Term DLM
+11:00
+15:00
+4:00
+All
+Event
+Term DLM Planned
+7/16/2024
+Con Edison
+Term DLM
+14:00
+18:00
+4:00
+All
+Event
+Term DLM Planned
+7/16/2024
+Con Edison
+Term DLM
+16:00
+20:00
+4:00
+All
+Event
+Term DLM Planned
+7/16/2024
+Con Edison
+Auto DLM
+16:00
+20:00
+4:00
+All
+Event
+Term DLM Planned
+7/16/2024
+Con Edison
+Term DLM
+19:00
+23:00
+4:00
+All
+Event
+Term DLM Planned
+7/16/2024
+Con Edison
+Auto DLM
+19:00
+23:00
+4:00
+All
+Event
+Term DLM Planned
+7/16/2024
+Con Edison
+DLRP*
+8:00
+14:00
+6:00
+Granite Hill
+Event
+DLRP Immediate
+7/16/2024
+NYISO
+NYISO SCR
+15:00
+20:00
+5:00
+H,I,J
+Event
+NYISO Event
+7/17/2024
+Con Edison
+CSRP*
+10:00
+16:00
+6:00
+All
+Event
+CSRP Planned
+7/17/2024
+Con Edison
+CSRP*
+10:00
+16:00
+6:00
+All SC 11
+Event
+CSRP Planned
+7/17/2024
+Con Edison
+CSRP*
+11:00
+15:00
+4:00
+All
+Event
+CSRP Planned
+7/17/2024
+Con Edison
+CSRP*
+13:00
+19:00
+6:00
+All
+Event
+CSRP Planned
+7/17/2024
+Con Edison
+CSRP*
+14:00
+18:00
+4:00
+All
+Event
+CSRP Planned
+7/17/2024
+Con Edison
+CSRP*
+15:00
+21:00
+6:00
+All
+Event
+CSRP Planned
+7/17/2024
+Con Edison
+CSRP*
+15:00
+21:00
+6:00
+All SC 11
+Event
+CSRP Planned
+7/17/2024
+Con Edison
+CSRP*
+16:00
+20:00
+4:00
+All
+Event
+CSRP Planned
+7/17/2024
+Con Edison
+CSRP*
+16:00
+20:00
+4:00
+All SC 11
+Event
+CSRP Planned
+7/17/2024
+Con Edison
+CSRP*
+19:00
+23:00
+4:00
+All
+Event
+CSRP Planned
+7/17/2024
+Con Edison
+Term DLM
+11:00
+15:00
+4:00
+All
+Event
+Term DLM Planned
+7/17/2024
+Con Edison
+Term DLM
+14:00
+18:00
+4:00
+All
+Event
+Term DLM Planned
+7/17/2024
+Con Edison
+Term DLM
+16:00
+20:00
+4:00
+All
+Event
+Term DLM Planned
+7/17/2024
+Con Edison
+Auto DLM
+16:00
+20:00
+4:00
+All
+Event
+Term DLM Planned
+7/17/2024
+Con Edison
+Term DLM
+19:00
+23:00
+4:00
+All
+Event
+Term DLM Planned
+7/17/2024
+Con Edison
+Auto DLM
+19:00
+23:00
+4:00
+All
+Event
+Term DLM Planned
+7/17/2024
+Con Edison
+DLRP*
+8:00
+14:00
+6:00
+Granite Hill
+Event
+DLRP Immediate
+8/1/2024
+Con Edison
+DLRP*
+16:00
+18:00
+2:00
+All
+Test
+DLRP Test
+8/1/2024
+Con Edison
+DLRP*
+16:00
+18:00
+2:00
+All SC 11
+Test
+DLRP Test
+8/1/2024
+Con Edison
+Auto DLM
+16:00
+17:00
+1:00
+All
+Test
+Auto DLM Test
+8/1/2024
+Con Edison
+DLRP*
+20:30
+23:30
+3:00
+White Plains
+Event
+DLRP Immediate
+8/1/2024
+NYISO
+NYISO SCR
+15:00
+20:00
+5:00
+H,I,J
+Event
+NYISO Event
+8/2/2024
+Con Edison
+DLRP*
+8:00
+14:00
+6:00
+Sutton
+Event
+DLRP Contingency
+8/2/2024
+Con Edison
+DLRP*
+14:00
+18:00
+4:00
+White Plains
+Event
+DLRP Contingency
+8/2/2024
+Con Edison
+DLRP*
+20:00
+0:00
+4:00
+Fresh Kills
+Event
+DLRP Immediate
+8/3/2024
+Con Edison
+DLRP*
+17:00
+21:00
+4:00
+Washington Street
+Event
+DLRP Contingency
+8/3/2024
+Con Edison
+DLRP*
+16:00
+20:00
+4:00
+Fresh Kills
+Event
+DLRP Contingency
+8/3/2024
+Con Edison
+DLRP*
+16:00
+20:00
+4:00
+Cedar Street
+Event
+DLRP Contingency
+8/3/2024
+Con Edison
+DLRP*
+15:00
+21:00
+6:00
+Fordham
+Event
+DLRP Immediate
+8/3/2024
+Con Edison
+DLRP*
+15:30
+21:30
+6:00
+Fordham SC 11
+Event
+DLRP Immediate
+8/3/2024
+Con Edison
+DLRP*
+17:00
+23:00
+6:00
+Elmsford No. 2
+Event
+DLRP Immediate
+8/27/2024
+NYISO
+NYISO SCR
+16:00
+17:00
+1:00
+H,I
+Test
+Test
+8/27/2024
+NYISO
+NYISO SCR
+14:00
+15:00
+1:00
+J
+Test
+Test
+10/10/2024
+NYISO
+NYISO SCR
+13:00
+14:00
+1:00
+H,I,J
+Test
+Test
