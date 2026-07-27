@@ -7,3 +7,6 @@ venv/*
 keys.py
 
 powerStationExperiments/outputs/*
+
+
+power_station_validation/customer_data_export/*
